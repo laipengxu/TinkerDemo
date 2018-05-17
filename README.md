@@ -1,5 +1,6 @@
 #TinkerDemo
-A Android hotfix solution,provided by WeChat team.
+
+Tinker is a Android hotfix solution,provided by WeChat team.
 
 ## Reference
 [微信Tinker在Android中集成以及使用](https://www.jianshu.com/p/d50817b6d622)
